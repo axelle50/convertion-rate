@@ -10,7 +10,7 @@ We organized a Supervised machine learning challenge for our promotion students.
 - Deliver predictions on a test set
 
 ## Dataset
-Dataset from Jedha: TODO
+Dataset from Jedha: [train set](https://julie-2-next-resources.s3.eu-west-3.amazonaws.com/full-stack-full-time/projects-supervised-machine-learning-ft/walmart-sales-ft/conversion_data_train.csv), [test set](https://julie-2-next-resources.s3.eu-west-3.amazonaws.com/full-stack-full-time/projects-supervised-machine-learning-ft/walmart-sales-ft/conversion_data_test.csv)
 
 ## Prerequisites
 Download and extract data from the link above
