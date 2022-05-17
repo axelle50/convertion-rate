@@ -13,7 +13,7 @@ We organized a Supervised machine learning challenge for our promotion students.
 Dataset from Jedha: [train set](https://julie-2-next-resources.s3.eu-west-3.amazonaws.com/full-stack-full-time/projects-supervised-machine-learning-ft/walmart-sales-ft/conversion_data_train.csv) and [test set](https://julie-2-next-resources.s3.eu-west-3.amazonaws.com/full-stack-full-time/projects-supervised-machine-learning-ft/walmart-sales-ft/conversion_data_test.csv)
 
 ## Prerequisites
-Download and extract data from the link above
+Download and extract both datasets from the links above
 
 ### Dependencies
 - The source code is written in Python 3.
