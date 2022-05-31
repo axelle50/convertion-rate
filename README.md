@@ -1,7 +1,7 @@
 # Project with Jedha
 
 ### Link to the presentation video
-https://share.vidyard.com/watch/PYDYXm4V7pR4bmaCb2j7ZW?
+[Presentation video](https://share.vidyard.com/watch/PYDYXm4V7pR4bmaCb2j7ZW?)
 
 ### Objective
 We organized a Supervised machine learning challenge for our promotion students. The goal of this project is to create a machine learning algorithm in order to predict the conversion rate on a website. Conversion rate i.e. "will the customer buy a product or not?".  
