@@ -23,7 +23,7 @@ Download and extract both datasets from the links above
 ### Run the file linearly
 
 ## Team contributors
-Quentin Gottafray
+Axelle Gottafray
 
 ## References
 
